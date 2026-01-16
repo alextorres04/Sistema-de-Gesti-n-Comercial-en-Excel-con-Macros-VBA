@@ -47,39 +47,42 @@ Permite automatizar el registro de productos, vendedores y clientes, generar bol
 -----------
 
 🛠️ Tecnologías utilizadas
-Microsoft Excel (tablas dinámicas, fórmulas financieras).
 
-VBA (Visual Basic for Applications) para automatización de registros.
+          -  Microsoft Excel (tablas dinámicas, fórmulas financieras).
 
-Funciones financieras de Excel: PMT, SUBTOTAL, etc.
+          - VBA (Visual Basic for Applications) para automatización de registros.
+
+          - Funciones financieras de Excel: PMT, SUBTOTAL, etc.
 
 ---------------------
 
 📊 Ejemplo de uso
-El usuario ingresa datos en el formulario de registro (Producto, Vendedor o Cliente).
 
-Al presionar el botón Registrar, el macro guarda la información en la hoja correspondiente.
+         - El usuario ingresa datos en el formulario de registro (Producto, Vendedor o Cliente).
 
-En la hoja Boleta de Venta, se selecciona cliente, vendedor y producto.
+         - Al presionar el botón Registrar, el macro guarda la información en la hoja correspondiente.
 
-Excel calcula automáticamente el Subtotal, Impuesto y Total.
+         - En la hoja Boleta de Venta, se selecciona cliente, vendedor y producto.
 
-En la hoja Amortización Francesa, se genera la tabla de pagos mensuales para un préstamo.
+         - Excel calcula automáticamente el Subtotal, Impuesto y Total.
+
+         - En la hoja Amortización Francesa, se genera la tabla de pagos mensuales para un préstamo.
 
 -------------
 
 📂 Estructura del archivo
-Registro → Formulario principal con botones de acción.
 
-Productos → Tabla de artículos registrados.
+        - Registro → Formulario principal con botones de acción.
 
-Vendedor → Tabla de vendedores registrados.
+        - Productos → Tabla de artículos registrados.
 
-Cliente → Tabla de clientes registrados.
+        - Vendedor → Tabla de vendedores registrados.
 
-Boleta de venta → Registro de transacciones y cálculo de totales.
+        - Cliente → Tabla de clientes registrados.
 
-Amortización francesa → Tabla de cuotas, interés, capital y saldo.
+        - Boleta de venta → Registro de transacciones y cálculo de totales.
+
+        - Amortización francesa → Tabla de cuotas, interés, capital y saldo.
 
 --------------
 
