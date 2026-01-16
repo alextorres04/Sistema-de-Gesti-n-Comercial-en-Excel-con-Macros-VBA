@@ -3,6 +3,7 @@
 -------------
 
 📌 Descripción
+
 Este proyecto implementa un sistema de gestión comercial desarrollado en Microsoft Excel utilizando macros en VBA.
 Permite automatizar el registro de productos, vendedores y clientes, generar boletas de venta con cálculo automático de subtotal, impuesto y total, y además incluye un módulo de amortización francesa para préstamos.
 
