@@ -9,39 +9,40 @@ Permite automatizar el registro de productos, vendedores y clientes, generar bol
 ----------------
 
 🚀 Funcionalidades principales
-Registro de Productos
 
-Artículo, Marca y Precio.
+    Registro de Productos
 
-Inserción automática en la hoja Productos sin espacios en blanco.
+          - Artículo, Marca y Precio.
 
-Registro de Vendedores
+          - Inserción automática en la hoja Productos sin espacios en blanco.
 
-Nombre, Apellido, Edad y Fecha de nacimiento.
+    Registro de Vendedores
 
-Inserción automática en la hoja Vendedor.
+           - Nombre, Apellido, Edad y Fecha de nacimiento.
 
-Registro de Clientes
+           - Inserción automática en la hoja Vendedor.
 
-Nombre, Apellido y Teléfono.
+    Registro de Clientes
 
-Inserción automática en la hoja Cliente.
+           - Nombre, Apellido y Teléfono.
 
-Boleta de Venta
+           - Inserción automática en la hoja Cliente.
 
-Relación entre cliente, vendedor y producto.
+    Boleta de Venta
 
-Cálculo automático de Subtotal, Impuesto (19%) y Total.
+           - Relación entre cliente, vendedor y producto.
 
-Fórmulas dinámicas que se ajustan al rango de datos.
+           - Cálculo automático de Subtotal, Impuesto (19%) y Total.
 
-Amortización Francesa
+           - Fórmulas dinámicas que se ajustan al rango de datos.
 
-Cálculo de la cuota fija mensual con la función PMT.
+    Amortización Francesa
 
-Distribución de cada pago en interés y capital.
+           - Cálculo de la cuota fija mensual con la función PMT.
 
-Tabla de amortización completa con saldo pendiente mes a mes.
+           - Distribución de cada pago en interés y capital.
+
+           - Tabla de amortización completa con saldo pendiente mes a mes.
 
 -----------
 
