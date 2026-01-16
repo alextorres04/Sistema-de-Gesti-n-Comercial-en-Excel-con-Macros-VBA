@@ -1,1 +1,1 @@
-# Sistema-de-Gesti-n-Comercial-en-Excel-con-Macros-VBA
+# Sistema-de-Gestión-Comercial-en-Excel-con-Macros-VBA
