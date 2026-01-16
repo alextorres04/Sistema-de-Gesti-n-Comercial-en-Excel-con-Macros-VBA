@@ -1,8 +1,12 @@
 📘 Proyecto: Sistema de Gestión Comercial en Excel con Macros VBA
 
+-------------
+
 📌 Descripción
 Este proyecto implementa un sistema de gestión comercial desarrollado en Microsoft Excel utilizando macros en VBA.
 Permite automatizar el registro de productos, vendedores y clientes, generar boletas de venta con cálculo automático de subtotal, impuesto y total, y además incluye un módulo de amortización francesa para préstamos.
+
+----------------
 
 🚀 Funcionalidades principales
 Registro de Productos
@@ -39,12 +43,16 @@ Distribución de cada pago en interés y capital.
 
 Tabla de amortización completa con saldo pendiente mes a mes.
 
+-----------
+
 🛠️ Tecnologías utilizadas
 Microsoft Excel (tablas dinámicas, fórmulas financieras).
 
 VBA (Visual Basic for Applications) para automatización de registros.
 
 Funciones financieras de Excel: PMT, SUBTOTAL, etc.
+
+---------------------
 
 📊 Ejemplo de uso
 El usuario ingresa datos en el formulario de registro (Producto, Vendedor o Cliente).
@@ -56,6 +64,8 @@ En la hoja Boleta de Venta, se selecciona cliente, vendedor y producto.
 Excel calcula automáticamente el Subtotal, Impuesto y Total.
 
 En la hoja Amortización Francesa, se genera la tabla de pagos mensuales para un préstamo.
+
+-------------
 
 📂 Estructura del archivo
 Registro → Formulario principal con botones de acción.
@@ -69,6 +79,8 @@ Cliente → Tabla de clientes registrados.
 Boleta de venta → Registro de transacciones y cálculo de totales.
 
 Amortización francesa → Tabla de cuotas, interés, capital y saldo.
+
+--------------
 
 🎯 Objetivo
 Este proyecto busca demostrar el uso de Excel avanzado + VBA para resolver problemas de gestión comercial, integrando registros, cálculos automáticos y modelos financieros en un solo archivo.
